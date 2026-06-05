@@ -1,5 +1,5 @@
-Category,Avg_Consumption,Percentage,Label
-Kitchen,1.1219233096502186,6.2,1.12 Wh/min (6.2%)
-Laundry Room,1.2985199679887571,7.1,1.30 Wh/min (7.1%)
-Water Heater & AC,6.45844735712055,35.5,6.46 Wh/min (35.5%)
-Unmetered,9.314693306917551,51.2,9.31 Wh/min (51.2%)
+Category,Avg_Consumption
+Kitchen,1.1219233096502186
+Laundry Room,1.2985199679887571
+Water Heater & AC,6.45844735712055
+Unmetered,9.314693306917551

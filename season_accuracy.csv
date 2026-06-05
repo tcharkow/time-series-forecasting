@@ -1,0 +1,5 @@
+Season,MAE,MAPE,Avg_Actual
+Fall,0.1959,20.3,1.134
+Spring,0.2079,22.2,1.102
+Summer,0.1873,37.9,0.726
+Winter,0.2733,24.6,1.397
